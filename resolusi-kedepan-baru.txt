@@ -1,6 +1,7 @@
 RESOLUSI KEDEPAN YANG BARU
 - Belajar git
 - Belajar github
+- Struktur data dasar
   * github branch
 - Belajar php
 - Belajar unit testing
