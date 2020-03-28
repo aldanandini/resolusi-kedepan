@@ -1,0 +1,5 @@
+RESOLUSI KEDEPAN YANG BARU
+- Belajar git
+- Belajar github
+- Belajar php
+- Belajar unit testing
